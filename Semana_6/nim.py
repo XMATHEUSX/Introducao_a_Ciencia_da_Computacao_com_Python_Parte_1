@@ -1,1 +1,0 @@
-computador_escolhe_jogada() 
